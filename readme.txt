@@ -11,4 +11,10 @@ Meta data standards are pretty fascinating.
 Ontologies.
 RDF is kind of a ship in a bottle thing.
 
+I flailed in the Tokyo interview. わたしは、日本語が少ないで間違いだらけですから。
+
+The ontology piece would have been a piece of cake.
+
+
+
 
